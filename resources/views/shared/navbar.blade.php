@@ -39,11 +39,11 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 {{--<li class="active"><a href="#">Home<span class="sr-only">(current)</span></a></li>--}}
-                <li><a href="http://localhost/WDA-A1/public/">Home<span class="sr-only">(current)</span></a></li>
-                <li><a href="http://localhost/WDA-A1/public/FAQ">FAQ</a></li>
-                <li><a href="http://localhost/WDA-A1/public/ticket/create">Request a Service</a></li>
-                <li><a href="http://localhost/WDA-A1/public/track">Track Progress</a></li>
-                <li><a href="http://localhost/WDA-A1/public/its">View</a></li>
+                <li><a href="http://localhost/RMIT_helpdesk/public/">Home<span class="sr-only">(current)</span></a></li>
+                <li><a href="http://localhost/RMIT_helpdesk/public/FAQ">FAQ</a></li>
+                <li><a href="http://localhost/RMIT_helpdesk/public/ticket/create">Request a Service</a></li>
+                <li><a href="http://localhost/RMIT_helpdesk/public/track">Track Progress</a></li>
+                <li><a href="http://localhost/RMIT_helpdesk/public/its">View</a></li>
             </ul>
 
             {{--<ul class="nav navbar-nav navbar-right">--}}
